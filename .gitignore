@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/classes/debug/
+/ti_oad/build/
+/ti_oad/build/intermediates/classes/debug/
